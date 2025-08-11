@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meme Frenzy</title>
+</head>
+<body>
+</body>
+</html>
